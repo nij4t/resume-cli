@@ -1,6 +1,6 @@
 {
   "name": "@nij4t/resume-cli",
-  "version": "1.3.0",
+  "version": "1.3.2",
   "description": "The JSON Resume command line interface",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,7 @@
     "dotenv": "^2.0.0",
     "jsonlint": "^1.6.2",
     "jsonresume-theme-crisp": "^0.2.12",
-    "@nij4t/jsonresume-theme-flat": "^0.3.7",
+    "@nij4t/jsonresume-theme-flat": "~0.3.7",
     "jsonresume-theme-modern": "0.0.18",
     "node-static": "~0.7.7",
     "opn": "5.4.0",
